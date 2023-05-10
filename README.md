@@ -11,3 +11,7 @@ TowradsAurora的LeetCode笔记,通过学习[labuladong](https://github.com/labul
 因此在刷题的过程中其实是加深我们对数据结构的理解和学习一些新的算法技巧从而形成一种算法思维。
 ## 日复一日，必有精进
 ![KeQing.jpg](https://github.com/TowardsAurora/LeetCodeNotes/blob/main/img/KeQing.jpg?raw=true)
+
+## 学习路径
+### 1.数据结构
+你首先要做到的就是了解数据结构，因为大多数题目都是在数据结构的遍历和特性上做学问。
