@@ -1,5 +1,6 @@
 # LeetCodeNotes
-TowradsAurora的LeetCode笔记
+TowradsAurora的LeetCode笔记,通过学习[labuladong](https://github.com/labuladong/fucking-algorithm)
+边学边做笔记
 
 ## 制作笔记的初衷
 刷LeetCode是程序员日常学习或找工作必须经历的过程，自己在之前也尝试刷过LeetCode,但过了一段时间后又不会了。
